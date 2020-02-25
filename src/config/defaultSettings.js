@@ -1,4 +1,5 @@
 export default {
+  baseUrl: 'http://localhost:8090',
   primaryColor: '#1890FF',
   navTheme: 'dark',
   layout: 'topmenu',

@@ -1,6 +1,6 @@
 import service from '@/utils/service'
-
-const baseUrl = '/api/admin/backups'
+import defaultSettings from '@/config/defaultSettings'
+const baseUrl = defaultSettings.baseUrl + '/api/admin/backups'
 
 const backupApi = {}
 
