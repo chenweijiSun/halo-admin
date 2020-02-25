@@ -7,4 +7,4 @@
 >另外[halo-cwj](https://github.com/chenweijiSun/halo/tree/halo-cwj)也在保持同步更新
 ------------------------------
 ## 2020.02.25
-
+1、修改npm run 指定端口为8888，默认：8080
